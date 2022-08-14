@@ -1,0 +1,6 @@
+django_env/
+sample_django/db.sqlite3
+sample_django/.idea/
+**/__pycache__/**
+
+sample_env/ 
